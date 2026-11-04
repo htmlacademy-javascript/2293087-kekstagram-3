@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Мария Масалович](https://up.htmlacademy.ru/javascript-individual/3/user/2293087).
-* Наставник: [Сергей Остаповец] (https://htmlacademy.ru/profile/seraphim)
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
 
 ---
 

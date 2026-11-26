@@ -28,12 +28,12 @@ const goNum = (input) => {
 };
 
 
-goNum('2023 год');            // 2023
-goNum('ECMAScript 2022');     // 2022
+goNum('2023 год'); // 2023
+goNum('ECMAScript 2022'); // 2022
 goNum('1 кефир, 0.5 батона'); // 105
-goNum('агент 007');           // 7
-goNum('а я томат');           // NaN
+goNum('агент 007'); // 7
+goNum('а я томат'); // NaN
 
 goNum(2023); // 2023
-goNum(-1);   // 1
-goNum(1.5);  // 15
+goNum(-1); // 1
+goNum(1.5); // 15
